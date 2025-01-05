@@ -160,3 +160,13 @@
     border-radius: 16px;
     border: 3px solid #f9faf8;   
 }
+
+/* -------------------------------- */
+
+div.footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    font-size: 20px;
+    text-align: center;
+    padding: 32px;
+}
